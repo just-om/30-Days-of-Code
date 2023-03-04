@@ -1,2 +1,2 @@
-# 30-Days-of-Code
+# PROBLEM SOLVING
 Topic wise DSA Problem Solving.
